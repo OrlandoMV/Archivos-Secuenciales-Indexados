@@ -1,0 +1,17 @@
+C:\Users\orlan\Downloads\C#\si\opindexados\bin\Debug\net8.0-windows\opindexados.exe
+C:\Users\orlan\Downloads\C#\si\opindexados\bin\Debug\net8.0-windows\opindexados.deps.json
+C:\Users\orlan\Downloads\C#\si\opindexados\bin\Debug\net8.0-windows\opindexados.runtimeconfig.json
+C:\Users\orlan\Downloads\C#\si\opindexados\bin\Debug\net8.0-windows\opindexados.dll
+C:\Users\orlan\Downloads\C#\si\opindexados\bin\Debug\net8.0-windows\opindexados.pdb
+C:\Users\orlan\Downloads\C#\si\opindexados\obj\Debug\net8.0-windows\OPArchivosIndexados.Form1.resources
+C:\Users\orlan\Downloads\C#\si\opindexados\obj\Debug\net8.0-windows\opindexados.csproj.GenerateResource.cache
+C:\Users\orlan\Downloads\C#\si\opindexados\obj\Debug\net8.0-windows\opindexados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orlan\Downloads\C#\si\opindexados\obj\Debug\net8.0-windows\opindexados.AssemblyInfoInputs.cache
+C:\Users\orlan\Downloads\C#\si\opindexados\obj\Debug\net8.0-windows\opindexados.AssemblyInfo.cs
+C:\Users\orlan\Downloads\C#\si\opindexados\obj\Debug\net8.0-windows\opindexados.csproj.CoreCompileInputs.cache
+C:\Users\orlan\Downloads\C#\si\opindexados\obj\Debug\net8.0-windows\opindexados.sourcelink.json
+C:\Users\orlan\Downloads\C#\si\opindexados\obj\Debug\net8.0-windows\opindexados.dll
+C:\Users\orlan\Downloads\C#\si\opindexados\obj\Debug\net8.0-windows\refint\opindexados.dll
+C:\Users\orlan\Downloads\C#\si\opindexados\obj\Debug\net8.0-windows\opindexados.pdb
+C:\Users\orlan\Downloads\C#\si\opindexados\obj\Debug\net8.0-windows\opindexados.genruntimeconfig.cache
+C:\Users\orlan\Downloads\C#\si\opindexados\obj\Debug\net8.0-windows\ref\opindexados.dll
